@@ -109,7 +109,7 @@ The downward arrows are the leftmost-child links; the sideways arrows are the ri
 
 **Pre order** is a form of tree traversal, where the action is called firstly on the current node, and then the 
 pre order function is called again recursively on each subtree from left to right
-<br>Pre order listing on the figure is: **+ a − b c d**
+<br>Pre order listing on the figure is: **+ a * − b c d**
 
 **Post order** is a form of tree traversal, where the post order function is called recursively on each subtree 
 from left to right and then the action is called
